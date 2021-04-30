@@ -1,0 +1,46 @@
+---
+course_id: 15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003
+layout: course_section
+menu:
+  leftnav:
+    identifier: 1bd3dac5427e414a66278a6e7e67f2c0
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: 1bd3dac5427e414a66278a6e7e67f2c0
+
+---
+
+| LEC # | TOPICS | READINGS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**Introduction**{{< /td-colspan >}} |||
+| 1 |  {{< br >}}{{< br >}} Course Introduction {{< br >}}{{< br >}}  |  |
+| {{< td-colspan 3 >}}**Role of the Organization in IT**{{< /td-colspan >}} |||
+| 2 | Should the General Manager Care to Learn IT? | Case: Andreu, Prof. Rafael. "Autoventa Diaria S.A.: Memorandum to the CEO and the CMO/CIO Crisis." IESE Case No. 0-192-030 SI-35-E. [IESE Publishing](http://www.iesep.com/), 1992. |
+| {{< td-colspan 3 >}}**Positioning and IT**{{< /td-colspan >}} |||
+| 3 | Re-Positioning the Value Proposition Through IT | Case: Subirana, Prof. Brian and Marcel Zuidhof. "Virtual Distribution on the Internet and the Transformation of the Publishing Industry." IESE Case No. 0-196-026 SI-93-E. [IESE Publishing](http://www.iesep.com/), 1996. |
+| 4 | Aligning Programs and Processes  {{< br >}}The MIT View of the Firm |  |
+| 5 | Electronic Markets and Supply Change Management |  {{< br >}}{{< br >}} Case: Konsynski, Prof. Benn. "Baxter Healthcare Corp.: ASAP Express." Harvard Business Case No. 9-188-080. Boston: Harvard Business School, 1988. {{< br >}}{{< br >}} **Optional:** {{< br >}}{{< br >}} *   Short and Venkatraman. "Beyond Business Process Redesign: Redefining Baxter's Business Network." _Sloan Management Review_, Fall 1992. {{< br >}}{{< br >}}  |
+| 6 | Designing an Industry-wide Information Architecture (I): "Under the Hood" of a Commercial Website |  {{< br >}}{{< br >}} **Optional:** {{< br >}}{{< br >}} *   Porter, Michael. "What is Strategy?" _Harvard Business Review_, November 1996.{{< br >}}*   Ghemawhat, Pankaj. "Commitment." Free Press, 1991, chapter 2. {{< br >}}{{< br >}}  |
+| 7 | Designing an Industry-wide Information Architecture (II): Transaction Streams | Hagel III, John and Jeffrey Rayport. "The New Infomediaries." _McKinsey Quarterly_, Number 4, 1997. |
+| 8 | A View Into the Future: Web Technologies Basics and the Semantic Web |  {{< br >}}{{< br >}} Orfali, R. et al. "Client/Server Survival Guide (3rd edition)." Wiley, 1999, chapters 26-27. {{< br >}}{{< br >}} **Optional:** {{< br >}}{{< br >}} *   Wright, R. "The Man Who Invented the Web." Time, May 19, 1997.{{< br >}}*   Malone, T., Y. Yates, and R. I. Benjamin. "Electronic Markets and Electronic Hierarchies." _Communications of the ACM_, 1987.{{< br >}}*   Karrer, Lukas. "Characterization of Internet traffic." CCIC Seminar 37-310, 2000. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**IT-Enabled Operational Effectiveness**{{< /td-colspan >}} |||
+| 9 | SAP in Manufacturing  {{< br >}}What Should the CEO Know About ERPs? |  {{< br >}}{{< br >}} Case: Andreu, Rafael, Sandra Sieber, Brian Subirana, Josep Valor and Fernando Jim?nez. "Implementation of SAP at CELSA (B)." IESE Case No. 2-103-019 SI-139-E. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), January 2003. {{< br >}}{{< br >}} Davenport, T. H. "Putting the Enterprise into the Enterprise System." _Harvard Business Review_, August 1998, pp. 121-131. {{< br >}}{{< br >}}  |
+| 10 | Aligning IT and the Organization: Role of Artificial Intelligence and Other Forecasting Technologies |  {{< br >}}{{< br >}} Case: Ostrofsky, Keri and Prof. James Cash. "Mrs. Fields' Cookies." Harvard Business Case No. 9-189-056. Harvard Business School, 1988. {{< br >}}{{< br >}} "J. C. Penney Decentralizes Its Purchasing. Individual Stores Can Tailor Buying to Needs." _TWJ Europe_, May 8, 1986. {{< br >}}{{< br >}}  |
+| 11 |  {{< br >}}{{< br >}} The Central Nervous System of Automated Virtual Manufacturing Plants {{< br >}}{{< br >}} Guest Speaker: Jim Miller, VP Supply Chain & Logistics, Cisco Systems, Inc. {{< br >}}{{< br >}} [http://www.cisco.com](http://www.cisco.com) {{< br >}}{{< br >}}  | &nbsp; |
+| 12 |  {{< br >}}{{< br >}} Linking Process Modeling Architecture with ERP The Case of American Meter Company, ARIS and SAP {{< br >}}{{< br >}} Guest Lecture: Ed Brady, IT Director, American Meter Company {{< br >}}{{< br >}} [http://www.americanmeter.com](http://www.americanmeter.com) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} "Business Process Improvement and Software Selection Using ARIS at a Mid-Market Manufacturing Company." _Business Process Excellence: ARIS in Practice_. Springer, 2002, pp. 109-128. {{< br >}}{{< br >}} Brady, Ed. "Demo of Aris Framework." IDS Scheer AG. {{< br >}}{{< br >}} "The BPS Market Catches Another Major Updraft." IDS Scheer/Gartner, 2002. {{< br >}}{{< br >}}  |
+| 13 | The Little-man Computer |  {{< br >}}{{< br >}} Madnick, Stuart. "Understanding the Computer (Little Man Computer)." 1993. (Unpublished manuscript.) {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   White, Ron et. al. "How Computers Work (Millennium Edition)." Zipf Davis, 1999.  {{< br >}}      {{< br >}}    (Good introductory text on the internals of computer hardware and system software. This book is recommended if you don't have a background in science or engineering.) {{< br >}}{{< br >}}  |
+| 14 |  {{< br >}}{{< br >}} IT and Productivity {{< br >}}{{< br >}} Cost Reduction of IT Automation Within Intel Manufacturing Plants {{< br >}}{{< br >}} Guest Speaker: Stanley Stanzyk, Automation Manager in Charge of Computing Cost Reduction. Intel Corp. {{< br >}}{{< br >}} [http://www.intel.com](http://www.intel.com) {{< br >}}{{< br >}}  | Case: Stanzyk, Stan and Tee Welton under supervision of Prof. Brian Subirana. "IT/Automation Cost Reduction in Intel's Manufacturing Environment." Cambridge, MA: MIT Sloan, 2003. |
+| 15 |  {{< br >}}{{< br >}} Embedded Intelligence, RFIDs and the Auto-ID Initiative {{< br >}}{{< br >}} Guest Speaker: Prof. Sanjay E. Sarma, Associate Professor of Mechanical Engineering, Co-Founder and Research Director of the Auto-ID Center at MIT {{< br >}}{{< br >}}  | &nbsp; |
+| 16 | Introduction to Databases, Data Modeling and XML |  |
+| {{< td-colspan 3 >}}**IT Implementation and Delivery**{{< /td-colspan >}} |||
+| 17 |  {{< br >}}{{< br >}} Role of Senior Management in the Implementation Process {{< br >}}{{< br >}} The Case of Handheld Devices {{< br >}}{{< br >}}  | Case: O'Callaghan, Ramon under supervision of Michael Vitale. "American Crown (Condensed)." IESE Case No. 3-195-003 SI-73-E. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), 1994. |
+| 18 | Designing an Industry-wide Information Architecture (III): Computer Security/Cryptography |  {{< br >}}{{< br >}} Behar, Richard. "Who's Reading Your E-mail?" Fortune. Feb. 3, 1997, pp. 57-70. VanDam, Chuck under supervision of Prof. Erik Brynjolfsson. "Encryption and Authentication." _Stanford University Case Studies_. Stanford University Case Services, April 1998. {{< br >}}{{< br >}} **Optional:** {{< br >}}{{< br >}} PC Webopedia - Encryption Category Page. ([http://www.webopedia.com/TERM/e/encryption.html](http://www.webopedia.com/TERM/e/encryption.html)) {{< br >}}{{< br >}} (Terms to look up: symmetric-key cryptography, DES, public-key encryption, RSA, Pretty Good Privacy, authentication, digital signature, digital certificate, PKI, SSL, digital cash, smart card.) {{< br >}}{{< br >}}  |
+| 19 |  {{< br >}}{{< br >}} Implementing Computer Vision Solutions in Manufacturing {{< br >}}{{< br >}} Guest Speaker: Pam Lipson, Founder / CEO, Imagen Inc. Technology Assignment Due {{< br >}}{{< br >}}  | &nbsp; |
+| 20 |  {{< br >}}{{< br >}} Steel Manufacturing and Cross-Company Processes Delivering an Industry-wide IT Solution {{< br >}}{{< br >}} Guest Speaker: Richard Rowe, Founder of RoweCom {{< br >}}{{< br >}}  | Case: Subirana, Prof. Brian. "Steelscreen.com Challenges in Aligning Technology and Strategy in B2B." IESE Case No. SI-118. Barcelona, Spain: [IESE Publishing](http://www.iesep.com/), 2000. |
+| {{< td-colspan 3 >}}**Conclusion: The Future of IT, Manufacturing, and You**{{< /td-colspan >}} |||
+| 21 |  {{< br >}}{{< br >}} Artificial Intelligence and the Robots of the Future {{< br >}}{{< br >}} Guest Speaker: Prof. Rodney Brooks Director, MIT Artificial Intelligence Laboratory {{< br >}}{{< br >}} [http://www.ai.mit.edu/](http://www.ai.mit.edu/) {{< br >}}{{< br >}}  |  |
+| 22 | Strategic Framing: Broadband Technologies and the Information Value-chain | Case: Sandoval, Matthew L under supervision of Prof. Stephen P. Bradley. "Excite@Home: Betting on a Broadband Revolution." Harvard Business Case No. 9-700-069. Boston: Harvard Business School, 2000. |
+| 23 |  {{< br >}}{{< br >}} What Should the CEO Know About Manufacturing? {{< br >}}{{< br >}} Wireless Technologies and 3G Guest Speaker: Lars-G?ran Hansson, Manufacturing Processes, Ericsson {{< br >}}{{< br >}} [http://www.ericsson.com](http://www.ericsson.com) {{< br >}}{{< br >}}  | &nbsp; |
+| 24 | Course Closure |
